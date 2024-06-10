@@ -84,19 +84,20 @@ jobs:
             Please fill in the following information.  
 
             Install ENV: (You can find it in the boot interface.)  
-            * DMI:  
-            * CPU:  
-            * NIC:  (pid & vid)  
+            * DMI:  P8Z77-V LX, BIOS 2501
+            * CPU:  I7-3770
+            * NIC:  (0x001 & 0x46f4)  
 
             RR version: (You can find it in the update menu.)  
-            * RR:  
-            * addons:  
-            * modules:  
-            * lkms:  
+            * RR:  24.6.1
+            * addons:  24.5.5
+            * modules:  24.6.0
+            * lkms:  24.5.0
+            * cks: 24.6.0
 
             DSM: 
-            * model:  
-            * version:  
+            * model:  SA6400
+            * version:  7.2.1
 
             Issue:  
 
